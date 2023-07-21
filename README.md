@@ -1,11 +1,11 @@
-### 👋  Welcome To A Professional Profile  👋
+### 👋  Welcome To Visit My Profile  👋
 
 
-Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- 🔭 As a Software Engineer, am working & contributing to frontend and backend for building web applications.
-- 🌱 Also React Native mobile application development.
-- ⚡ In free time, solve problems on GeeksforGeeks and read tech articles.
+- 🔭 As a Software Engineer, I am working & and also contributing to frontend and backend in building web applications.
+- 🌱 Hybrid Mobile - React Native Mobile Application Experience.
+- ⚡ In the free time, love to solve technical problems, Sports, and reading technical articles.
 
 
 ---
